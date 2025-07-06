@@ -1,5 +1,7 @@
 # Calculadora con Interfaz Gráfica en Python (Tkinter)
 
+![Interfaz de la calculadora](img/screenshot.png)
+
 Este proyecto es una calculadora básica construida con **Python** y **Tkinter**, la librería estándar para interfaces gráficas en Python. Incluye operaciones aritméticas fundamentales y una interfaz amigable para el usuario.
 
 ## 🎯 Funcionalidades
@@ -10,22 +12,6 @@ Este proyecto es una calculadora básica construida con **Python** y **Tkinter**
 - Botón de limpiar (`C`)
 - Interfaz adaptada a teclado y ratón
 - Validación de errores (evita cierres por operaciones inválidas)
-
-## 🖥️ Captura de pantalla
-
-> Puedes añadir una imagen aquí si deseas:
-
-```bash
-# Dentro del repositorio
-img/
-└── screenshot.png
-```
-
-Markdown para incrustarla:
-
-```markdown
-![Calculadora GUI](img/screenshot.png)
-```
 
 ## ⚙️ Requisitos
 
@@ -55,6 +41,8 @@ calculadora/
 ├── calculadora.py     # Script principal con interfaz gráfica Tkinter
 ├── calculadora.ico    # Ícono del programa (opcional)
 ├── README.md          # Documentación
+└── img/
+    └── screenshot.png # Imagen de la calculadora (añádela manualmente)
 ```
 
 ## 🧠 Detalles técnicos
