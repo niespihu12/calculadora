@@ -1,6 +1,6 @@
 # Calculadora con Interfaz Gráfica en Python (Tkinter)
 
-![Interfaz de la calculadora](img/screenshot.png)
+![Interfaz de la calculadora](/calculadora.png)
 
 Este proyecto es una calculadora básica construida con **Python** y **Tkinter**, la librería estándar para interfaces gráficas en Python. Incluye operaciones aritméticas fundamentales y una interfaz amigable para el usuario.
 
