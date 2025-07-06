@@ -66,7 +66,7 @@ MIT License. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 ## 👨‍💻 Autor
 
 **Nicolás Esteban Pinzón Huaza**  
-[LinkedIn](https://www.linkedin.com/in/nicolasestebanpinzon)
+[LinkedIn](https://www.linkedin.com/in/nicolas-esteban-pinzon-huaza-92a918226/)
 
 ---
 
